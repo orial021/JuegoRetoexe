@@ -32,7 +32,7 @@ echo cd api >> JuegoReto.bat
 
 echo REM ejecutar el .exe del juego >> JuegoReto.bat
 echo echo iniciando el juego... >> JuegoReto.bat
-echo start JuegoRetoJairoBelen.exe ^|^| (echo Error: no se pudo iniciar el juego) >> JuegoReto.bat
+echo start JuegoReto.exe ^|^| (echo Error: no se pudo iniciar el juego) >> JuegoReto.bat
 
 echo REM Iniciar el servidor FastAPI >> JuegoReto.bat
 echo call venv\Scripts\activate >> JuegoReto.bat
